@@ -1,0 +1,11 @@
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\bin\Debug\net8.0\SchoolApi.Domain.deps.json
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\bin\Debug\net8.0\SchoolApi.Domain.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\bin\Debug\net8.0\SchoolApi.Domain.pdb
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.AssemblyInfoInputs.cache
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.AssemblyInfo.cs
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.csproj.CoreCompileInputs.cache
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\refint\SchoolApi.Domain.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\SchoolApi.Domain.pdb
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Domain\obj\Debug\net8.0\ref\SchoolApi.Domain.dll

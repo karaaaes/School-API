@@ -1,0 +1,15 @@
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\bin\Debug\net8.0\SchoolApi.Application.deps.json
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\bin\Debug\net8.0\SchoolApi.Application.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\bin\Debug\net8.0\SchoolApi.Application.pdb
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\bin\Debug\net8.0\SchoolApi.Domain.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\bin\Debug\net8.0\SchoolApi.Domain.pdb
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.csproj.AssemblyReference.cache
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.AssemblyInfoInputs.cache
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.AssemblyInfo.cs
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.csproj.CoreCompileInputs.cache
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolAp.F04288AE.Up2Date
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\refint\SchoolApi.Application.dll
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\SchoolApi.Application.pdb
+D:\Raka\.NET\src\SchoolApi\SchoolApi.Application\obj\Debug\net8.0\ref\SchoolApi.Application.dll
