@@ -14,5 +14,5 @@ public class AppDbContextFactory : IDesignTimeDbContextFactory<AppDbContext>
         optionsBuilder.UseNpgsql("Host=localhost;Database=schooldb;Username=postgres;Password=admin");
 
         return new AppDbContext(optionsBuilder.Options);
-    }
+    }  
 }
