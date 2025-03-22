@@ -47,7 +47,7 @@ namespace SchoolApi.Tests.Controllers
             Assert.NotNull(dataProp);
         }
 
-        [Fact]  
+        [Fact]
         public async Task Create_TeacherCreationFails_ReturnsServerError()
         {
             // Arrange
