@@ -22,7 +22,7 @@ public class EnrollmentController : ControllerBase
         return Ok(enrollments);
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("{id}")]  
     public async Task<IActionResult> GetById(int id)
     {
         var enrollment = await _enrollmentService.GetByIdAsync(id);
