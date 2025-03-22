@@ -48,7 +48,7 @@ public class ClassController : ControllerBase
         return StatusCode(200, new {
             status = 200,
             message = "Class created successfully",
-            data = created
+            data = created  
         });
     }
 
