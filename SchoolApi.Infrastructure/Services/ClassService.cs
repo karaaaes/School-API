@@ -45,6 +45,6 @@ public class ClassService : IClassService
             _context.Classes.Remove(classEntity);     
             // Refactor
             await _context.SaveChangesAsync();
-        }
+        }  
     }
 }
